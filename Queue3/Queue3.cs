@@ -8,24 +8,21 @@ class Program
 
         // Створюємо чергу
         QueueWithoutCount<int> queue = new QueueWithoutCount<int>();
-
-        // Заповнюємо чергу для тестування
-        queue.Insert(10);
-        queue.Insert(20);
-        queue.Insert(30);
-
+        
         // Виводимо початковий вміст черги
         Console.WriteLine("Початковий вміст черги:");
         queue.DisplayQueue();
-
-        // Очищаємо чергу
-        queue.Clear();
-        Console.WriteLine("\nЧерга після очищення:");
+             
+        // Заповнюємо чергу 
+        queue.Insert(10);
+        queue.Insert(20);
+        queue.Insert(30);
+        Console.WriteLine("\nЧерга після Insert():");
         queue.DisplayQueue();
-
-        // Додаємо один елемент і перевіряємо відображення
-        queue.Insert(40);
-        Console.WriteLine("\nЧерга після додавання одного елементу:");
+        
+        // Видаляємо елементи черги
+        queue.Remove();      
+        Console.WriteLine("\nЧерга після Remove():");
         queue.DisplayQueue();
     }
 }
