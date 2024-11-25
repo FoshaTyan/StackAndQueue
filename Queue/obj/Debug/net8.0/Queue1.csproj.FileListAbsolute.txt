@@ -1,0 +1,14 @@
+C:\Users\Артём\source\repos\StackAndQueue\Queue\bin\Debug\net8.0\Queue1.exe
+C:\Users\Артём\source\repos\StackAndQueue\Queue\bin\Debug\net8.0\Queue1.deps.json
+C:\Users\Артём\source\repos\StackAndQueue\Queue\bin\Debug\net8.0\Queue1.runtimeconfig.json
+C:\Users\Артём\source\repos\StackAndQueue\Queue\bin\Debug\net8.0\Queue1.dll
+C:\Users\Артём\source\repos\StackAndQueue\Queue\bin\Debug\net8.0\Queue1.pdb
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.AssemblyInfo.cs
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.dll
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\refint\Queue1.dll
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.pdb
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\Queue1.genruntimeconfig.cache
+C:\Users\Артём\source\repos\StackAndQueue\Queue\obj\Debug\net8.0\ref\Queue1.dll

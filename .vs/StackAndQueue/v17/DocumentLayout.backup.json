@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00156595-16CF-4263-A84B-F40D0875D2B0}|Stack3\\Stack3.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\stack3\\stack3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00156595-16CF-4263-A84B-F40D0875D2B0}|Stack3\\Stack3.csproj|solutionrelative:stack3\\stack3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60073C05-4231-402A-9A0D-DC6BB45DD8DA}|StackAndQueue\\Stack1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\stackandqueue\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60073C05-4231-402A-9A0D-DC6BB45DD8DA}|StackAndQueue\\Stack1.csproj|solutionrelative:stackandqueue\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6F7D2-385A-484E-9D5A-07CB0D3BF7C0}|Queue3\\Queue3.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\queue3\\queue3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6F7D2-385A-484E-9D5A-07CB0D3BF7C0}|Queue3\\Queue3.csproj|solutionrelative:queue3\\queue3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2124DB-3616-4D69-8516-DC5EDE27C5E9}|Queue2\\Queue2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\queue2\\queue2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2124DB-3616-4D69-8516-DC5EDE27C5E9}|Queue2\\Queue2.csproj|solutionrelative:queue2\\queue2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC4F85F-62E7-4AE2-B26C-BDA7A51D4C4A}|Queue4\\Queue4.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\queue4\\queue4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC4F85F-62E7-4AE2-B26C-BDA7A51D4C4A}|Queue4\\Queue4.csproj|solutionrelative:queue4\\queue4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BA1D6B-5C24-4B80-9018-821ADFA11250}|Queue\\Queue1.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\queue\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BA1D6B-5C24-4B80-9018-821ADFA11250}|Queue\\Queue1.csproj|solutionrelative:queue\\queue1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74EA0E83-3C22-4D6D-971A-E4F50DB93DC2}|Stack2\\Stack2.csproj|c:\\users\\\u0430\u0440\u0442\u0451\u043C\\source\\repos\\stackandqueue\\stack2\\stack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EA0E83-3C22-4D6D-971A-E4F50DB93DC2}|Stack2\\Stack2.csproj|solutionrelative:stack2\\stack2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue4.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue4\\Queue4.cs",
+              "RelativeDocumentMoniker": "Queue4\\Queue4.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue4\\Queue4.cs",
+              "RelativeToolTip": "Queue4\\Queue4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:18:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue3.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue3\\Queue3.cs",
+              "RelativeDocumentMoniker": "Queue3\\Queue3.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue3\\Queue3.cs",
+              "RelativeToolTip": "Queue3\\Queue3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:15:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue2\\Queue2.cs",
+              "RelativeDocumentMoniker": "Queue2\\Queue2.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue2\\Queue2.cs",
+              "RelativeToolTip": "Queue2\\Queue2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:02:10.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue\\Queue1.cs",
+              "RelativeDocumentMoniker": "Queue\\Queue1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Queue\\Queue1.cs",
+              "RelativeToolTip": "Queue\\Queue1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:59:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack3.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Stack3\\Stack3.cs",
+              "RelativeDocumentMoniker": "Stack3\\Stack3.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Stack3\\Stack3.cs",
+              "RelativeToolTip": "Stack3\\Stack3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:55:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stack2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Stack2\\Stack2.cs",
+              "RelativeDocumentMoniker": "Stack2\\Stack2.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\Stack2\\Stack2.cs",
+              "RelativeToolTip": "Stack2\\Stack2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:42:04.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\StackAndQueue\\Stack1.cs",
+              "RelativeDocumentMoniker": "StackAndQueue\\Stack1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\source\\repos\\StackAndQueue\\StackAndQueue\\Stack1.cs",
+              "RelativeToolTip": "StackAndQueue\\Stack1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:22:18.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
